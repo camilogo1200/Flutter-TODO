@@ -1,4 +1,4 @@
-# todo_list_app
+# todo list app
 
 A simple TODO App made in flutter
 
