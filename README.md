@@ -2,15 +2,17 @@
 
 A simple TODO App made in flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Design 
 
-A few resources to get you started if this is your first Flutter project:
+- Base on the work of  [ Orizon: UI/UX Design Agency (Dribble) ](https://dribbble.com/shots/5395283-Admin-Inventory-Management-App-Day-287-365-Project365)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Main Screen
+![Main screen todo](https://user-images.githubusercontent.com/456256/231896678-0550c4cf-3282-4a8e-8d36-8f589a35a368.png)
+
+
+## Details Screen
+![image](https://user-images.githubusercontent.com/456256/231896880-18e6bb85-2142-40a1-aa56-f06dffd5c5f3.png)
+
+
